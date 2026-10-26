@@ -1,0 +1,8 @@
+settings:
+  editor-title: '&8Craft Anything: {name}'
+  success-sound: BLOCK_ANVIL_USE
+  cancel-sound: BLOCK_NOTE_BLOCK_BASS
+  invalid-sound: BLOCK_NOTE_BLOCK_BASS
+  allow-duplicate-names: false
+  max-recipe-name-length: 32
+recipes: {}

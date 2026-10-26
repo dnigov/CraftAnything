@@ -1,0 +1,13 @@
+name: CraftAnything
+version: '${version}'
+main: com.example.craftanything.CraftAnythingPlugin
+api-version: '1.21'
+author: CraftAnything
+description: Create custom recipes from any items.
+commands:
+  craftanything:
+    aliases: [ca]
+    usage: /craftanything recipe <create|delete|list> [name]
+permissions:
+  craftanything.admin:
+    default: op
