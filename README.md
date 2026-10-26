@@ -19,4 +19,6 @@ The implementation uses stable Bukkit/Paper APIs and is intended to run across t
 `craftanything.admin - /craftanything`
 
 ## Versions:
-1.21-26.1
+1.21-26.1 
+
+PAPER ONLY!!!!!!!!!!!!!
