@@ -1,6 +1,6 @@
 # Craft Anything
 
-Paper plugin skeleton for custom recipes: any 3x3 ingredient arrangement can produce any item.
+any 3x3 ingredient arrangement can produce any item.
 
 ## Build
 
@@ -13,3 +13,10 @@ The implementation uses stable Bukkit/Paper APIs and is intended to run across t
 `/CraftAnything recipe create <name>` opens the editor. Put ingredients in the 3x3 grid, the result in the result slot, then click green concrete to save or red concrete to cancel.
 
 `/CraftAnything recipe delete <name>`, `/CraftAnything recipe list`, and `/CraftAnything reload` are also supported.
+
+## Permissions
+
+`craftanything.admin - /craftanything`
+
+## Versions:
+1.21-26.1
